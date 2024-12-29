@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Pauline Ange Umunyana
 
 ## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects..
+I'm a junior developer with a passion for building  applications using React,SAP. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects..
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS
+- **Frontend:** React, JavaScript, HTML, CSS,SAPUI5
 - **Tools:** Git, GitHub, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
