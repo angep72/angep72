@@ -5,7 +5,7 @@ I'm a junior developer with a passion for building  applications using React,SAP
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS,SAPUI5
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+- **Tools:** Git, GitHub, VS Code, npm, Webpack.
 
 ## 🌱 Currently Learning
 - Advanced React concepts
