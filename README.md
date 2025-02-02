@@ -9,6 +9,7 @@ I'm a junior developer with a passion for building  applications using React,SAP
 
 ## 🌱 Currently Learning
 - Advanced React concepts
+- Testing with WDIO
 - State management with Redux
 - Backend basics with Node.js.
 
