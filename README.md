@@ -12,7 +12,7 @@ I'm a junior developer with a passion for building  applications using React,SAP
 - Advanced React concepts
 - Testing with WDIO
 - State management with Redux
-- Backend basics with Node.js.
+- Backend advanced with Node.js.
 
 [![Ange's GitHub stats](https://github-readme-stats.vercel.app/api?username=angep72)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angep72)](https://github.com/anuraghazra/github-readme-stats)
